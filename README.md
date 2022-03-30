@@ -1,7 +1,7 @@
 # Ovarian Cancer Segmentation
 This repository provides source code for ovarian cancer segmentation using Deep Multi-Magnification Network. Deep Multi-Magnification Network automatically segments multiple tissue subtypes by a set of patches from multiple magnifications in histopathology whole slide images. The original Deep Multi-Magnification Network paper is published [here](https://doi.org/10.1016/j.compmedimag.2021.101866) and its training and inference codes can be found [here](https://github.com/MSKCC-Computational-Pathology/DMMN).
 
-[<img src="DMMN-ovary.JPG" width="100%" align="center" />](https://doi.org/10.1016/j.compmedimag.2021.101866)
+[<img src="DMMN-ovary.JPG" width="100%" align="center" />](https://arxiv.org/abs/2203.15015)
 
 ## Prerequisites
 * Python 3.6.7
@@ -31,3 +31,14 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE.md) for de
 ## Acknowledgments
 * This code is inspired by [pytorch-semseg](https://github.com/meetps/pytorch-semseg) and [MICCAI 2017 Robotic Instrument Segmentation](https://github.com/ternaus/robot-surgery-segmentation).
 
+## Reference
+If you find our work useful, please cite our [paper](https://arxiv.org/abs/2203.15015):
+```
+@article{ho2022,
+  title={Deep Interactive Learning-based ovarian cancer segmentation of H&E-stained whole slide images to study morphological patterns of BRCA mutation},
+  author={Ho, David Joon and Chui, M. Herman and Vanderbilt, Chad M. and Jung, Jiwon and Robson, Mark E. and Park, Chan-Sik and Roh, Jin and Fuchs Thomas J.},
+  journal={arXiv preprint arXiv:2203.15015},
+  year={2022},
+  month={March}
+}
+```
