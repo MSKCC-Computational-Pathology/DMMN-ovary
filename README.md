@@ -37,8 +37,8 @@ If you find our work useful, please cite our [paper](https://arxiv.org/abs/2203.
 @article{ho2022,
   title={Deep Interactive Learning-based ovarian cancer segmentation of H&E-stained whole slide images to study morphological patterns of BRCA mutation},
   author={Ho, David Joon and Chui, M. Herman and Vanderbilt, Chad M. and Jung, Jiwon and Robson, Mark E. and Park, Chan-Sik and Roh, Jin and Fuchs Thomas J.},
-  journal={arXiv preprint arXiv:2203.15015},
-  year={2022},
-  month={March}
+  journal={Journal of Pathology Informatics},
+  pages = {100160},
+  year={2022}
 }
 ```
