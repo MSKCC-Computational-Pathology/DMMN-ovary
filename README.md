@@ -34,11 +34,12 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE.md) for de
 ## Reference
 If you find our work useful, please cite our [paper](https://doi.org/10.1016/j.jpi.2022.100160):
 ```
-@article{ho2022,
+@article{ho2023,
   title={Deep Interactive Learning-based ovarian cancer segmentation of H&E-stained whole slide images to study morphological patterns of BRCA mutation},
   author={Ho, David Joon and Chui, M. Herman and Vanderbilt, Chad M. and Jung, Jiwon and Robson, Mark E. and Park, Chan-Sik and Roh, Jin and Fuchs Thomas J.},
   journal={Journal of Pathology Informatics},
-  pages = {100160},
-  year={2022}
+  year={2023},
+  volume={14},
+  pages = {100160}
 }
 ```
